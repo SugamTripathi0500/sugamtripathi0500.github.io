@@ -1,6 +1,7 @@
 # Portfolio Website
 
 This repository contains the source code for my personal portfolio website. The site showcases my skills, projects, and experiences as a software developer and engineer.
+[Visit Site](https://sugamtripathi0500.github.io/)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -58,3 +59,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 Feel free to reach out to me via [GitHub](https://github.com/SugamTripathi0500) or connect with me on [LinkedIn](https://www.linkedin.com/in/sugam-tripathi-295a932a0/).
+
+## final Look of the Website 
+
+The snapshot provides the final look to the website 
+
+<img src="https://firebasestorage.googleapis.com/v0/b/expense-tracjer-a20e3.appspot.com/o/portfolio%20poster%20-%20personal%20website%20(2).png?alt=media&token=54bbb6a9-4d6b-4a8c-8c0b-c9bb75b9bc9b" alt="Snapshot">
+
+Vist the site at [Pofile_Website](https://sugamtripathi0500.github.io/)
