@@ -350,6 +350,7 @@ main {
   font-size: var(--fs-8);
   font-weight: var(--fw-300);
   width: max-content;
+  margin :5px 0px;
   padding: 3px 12px;
   border-radius: 8px;
 }
@@ -731,7 +732,7 @@ main {
 .clients-list {
   display: flex;
   justify-content: flex-start;
-  align-items: flex-start;
+  align-items: center;
   gap: 15px;
   margin: 0 -15px;
   padding: 25px;
@@ -744,6 +745,7 @@ main {
 }
 
 .clients-item {
+  align-items: center;
   min-width: 50%;
   scroll-snap-align: start;
 }
@@ -1353,7 +1355,10 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .info-content .name { margin-bottom: 15px; }
 
-  .info-content .title { padding: 5px 18px; }
+  .info-content .title {
+    margin: 5px;
+    padding: 5px 18px; 
+  }
 
   .info_more-btn {
     top: -30px;
@@ -1852,7 +1857,8 @@ textarea.form-input::-webkit-resizer { display: none; }
     text-align: center;
   }
 
-  .info-content .title { margin: auto; }
+  .info-content .title { margin: 5px; }
+ 
 
   .info_more-btn { display: none; }
 
